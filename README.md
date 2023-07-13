@@ -4,7 +4,7 @@
  
 <h3 align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&center=true&color=4CFF33&multiline=true&width=1200&lines=Jr+Full-Stack+Developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&center=true&color=0d7dee&multiline=true&width=1200&lines=Jr+Full-Stack+Developer+)](https://git.io/typing-svg)
 
 ### 🪐 About Me 
 
