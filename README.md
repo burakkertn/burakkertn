@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=green&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header)
  <h1 align="center">Hi There! I'm Burak</h1>
 
  
