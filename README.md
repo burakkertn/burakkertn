@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=green&section=header)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&center=true&color=4CFF33&multiline=true&width=1200&lines=Hi+There!+I'm+Burak+)](https://git.io/typing-svg)
+ <h1 align="center">Hi There! I'm Burak</h1>
 
  
 <h3 align="center">
