@@ -8,7 +8,7 @@
 
 ### 🪐 About Me 
 
-🧬  Hello, I have been working on Full Stack Development of web applications by using Asp.NET, Mssql, Html, C#. 
+🧬  Hello, I have been working on Back End Development of web applications by using Asp.NET, Mssql, Html, C#. 
 If you want to examine me more closely, you can visit www.burakertan.com.tr
 
 
