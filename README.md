@@ -4,11 +4,11 @@
  
 <h3 align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&center=true&color=0d7dee&multiline=true&width=1200&lines=Jr+Back-End+Developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&center=true&color=0d7dee&multiline=true&width=1200&lines=Jr+.Net-Core+Developer+)](https://git.io/typing-svg)
 
 ### 🪐 About Me 
 
-🧬  Hello, I have been working on Back End Development of web applications by using Asp.NET, Mssql, Html, C#. 
+🧬  Hello, I have been working on .Net Core Development of web applications by using Asp.NET, Mssql, Html, C#. 
 If you want to examine me more closely, you can visit www.burakertan.com.tr
 
 
