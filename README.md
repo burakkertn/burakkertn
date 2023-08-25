@@ -9,7 +9,6 @@
 ### 🪐 About Me 
 
 🧬  Hello, I have been working on .Net Core Development of web applications by using Asp.NET, Mssql, Html, C#. 
-If you want to examine me more closely, you can visit www.burakertan.com.tr
 
 
 
