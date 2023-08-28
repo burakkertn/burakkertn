@@ -6,7 +6,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&center=true&color=0d7dee&multiline=true&width=1200&lines=Jr+.Net+Core+Developer+)](https://git.io/typing-svg)
 
-### 🪐 About Me 
+### 🪐 About 
 
 🧬  Hello, I have been working on .Net Core Development of web applications by using Asp.NET, Mssql, Html, C#. 
 
