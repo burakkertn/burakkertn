@@ -16,11 +16,11 @@
        -MongoDb                         - Asp.Net Core 3.1/5.0/6.0/7.0                   - Clean Code Arc
        -PostgreSQL                      - Windows Form App                               - Repository
        -T-SQL                           - SignalR                                        - Design Pattern
-       -Json                            - Web Api                                         - Unit of Work Design Pattern
-       -Redis                           - Docker                                          - Chain of Responsibility
-       -NoSQL                           - Portainer                                       - CQRS
-       -SQLLite                         - Html                                            - Mediator
-       -Azure Devops                    - Css                                             - Observer
+       -Json                            - Web Api                                           - Unit of Work Design Pattern
+       -Redis                           - Docker                                            - Chain of Responsibility
+       -NoSQL                           - Portainer                                         - CQRS
+       -SQLLite                         - Html                                              - Mediator
+       -Azure Devops                    - Css                                               - Observer
                                         - Bootstrap                                      - Onion Architecture
                                         - Ajax                                           - Microservices
                                                                                          - N Tier Architecture
