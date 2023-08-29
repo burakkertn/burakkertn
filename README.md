@@ -10,16 +10,16 @@
 
 🧬  Hi, I am working on .Net Core web development. Technologies I use;
 
-    # Database Technologies       # Technologies and Application Frameworks        # Concepts and Patterns                     #Tools                               
+    # Database Technologies       # Technologies and Application Frameworks        # Concepts and Patterns                  #Tools                               
                                                                                        
-       -MSSQL                       - Asp.Net Mvc5                                   - Solid Principles                         - Visual Studio
-       -MongoDb                     - Asp.Net Core 3.1/5.0/6.0/7.0                   - Clean Code Arc                           - Visual Studio Code
-       -PostgreSQL                  - Windows Form App                               - Repository                               - Postman
-       -T-SQL                       - SignalR                                        - Design Pattern                           - Swagger
-       -Json                        - Web Api                                           - Unit of Work Design Pattern           - Dbeaver
-       -Redis                       - Docker                                            - Chain of Responsibility               - TFS
-       -NoSQL                       - Portainer                                         - CQRS                                  - Git
-       -SQLLite                     - Html                                              - Mediator                              - GitHub
+       -MSSQL                       - Asp.Net Mvc5                                   - Solid Principles                       - Visual Studio
+       -MongoDb                     - Asp.Net Core 3.1/5.0/6.0/7.0                   - Clean Code Arc                         - Visual Studio Code
+       -PostgreSQL                  - Windows Form App                               - Repository                             - Postman
+       -T-SQL                       - SignalR                                        - Design Pattern                         - Swagger
+       -Json                        - Web Api                                           - Unit of Work Design Pattern         - Dbeaver
+       -Redis                       - Docker                                            - Chain of Responsibility             - TFS
+       -NoSQL                       - Portainer                                         - CQRS                                
+       -SQLLite                     - Html                                              - Mediator                           
        -Azure Devops                - Css                                               - Observer
                                     - Bootstrap                                      - Onion Architecture
                                     - Ajax                                           - Microservices
